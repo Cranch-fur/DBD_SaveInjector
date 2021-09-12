@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveFileInjector", "SaveFileReset\SaveFileInjector.csproj", "{CABCB8E3-6DC4-4F82-8BF3-8EE2A30393B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABCB8E3-6DC4-4F82-8BF3-8EE2A30393B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABCB8E3-6DC4-4F82-8BF3-8EE2A30393B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABCB8E3-6DC4-4F82-8BF3-8EE2A30393B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABCB8E3-6DC4-4F82-8BF3-8EE2A30393B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE0996F-59FD-4B95-9253-8B0FD2917CE0}
+	EndGlobalSection
+EndGlobal
